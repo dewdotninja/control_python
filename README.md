@@ -1,5 +1,5 @@
 # control_python
-Dr.Varodom Toochinda
+<b>Dr.Varodom Toochinda</b>
 <br>Dept. of Mechanical Engineering, Kasetsart University
 ## Project Description
 <p />The contents in this repository are converted from my 
