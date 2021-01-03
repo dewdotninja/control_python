@@ -9,7 +9,7 @@ libraries. The emphasis is on control system analysis and design, and robotics. 
 
 ## Installation
 
-<b>Requirement : <b> Python 3 with Scipy & Python control systems
+<b>Requirement : </b> Python 3 with Scipy & Python control systems
 
 <p />The notebooks can be executed on Google colab or on your local computer. 
 
