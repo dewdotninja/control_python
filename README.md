@@ -27,3 +27,7 @@ typing
 conda install -c conda-forge -n controlenv control
 </pre>
 <p />at the command prompt 
+<p align="center">
+<img src="https://drive.google.com/thumbnail?id=13bzT7Rmy3bzvE7TiS0yfQo94kpxMuipF" alt="dewninja"/>
+</p>
+<div align="center">dew.ninja<br>Copyright 2021</div>
