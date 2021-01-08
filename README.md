@@ -1,6 +1,6 @@
 # control_python
 <b>Dr.Varodom Toochinda</b>
-<br><span style="color:green">Dept. of Mechanical Engineering, Kasetsart University</span>
+<br>Dept. of Mechanical Engineering, Kasetsart University
 ## Project Description
 <p />The contents in this repository are converted from my 
 <a href="https://scilabdotninja.wordpress.com/" target=_blank>Scilab.ninja</a> website. 
