@@ -2,7 +2,8 @@
 <b>Dr.Varodom Toochinda</b>
 <br>Dept. of Mechanical Engineering, Kasetsart University
 
-<img src="https://scilabdotninja.files.wordpress.com/2018/01/cropped-cropped-header3.jpg" width=600 />
+<img src="https://scilabdotninja.files.wordpress.com/2018/01/cropped-cropped-header3.jpg" width=400 />
+
 ## Project Description
 <p />The contents in this repository are converted from my 
 <a href="https://scilabdotninja.wordpress.com/" target=_blank>Scilab.ninja</a> website. 
