@@ -40,7 +40,7 @@ conda install -c conda-forge -n controlenv control
 * [Module 4: PID Control](ceb_m4.ipynb)
 * Module 5: State Feedback
 * [Module 6: Discrete-time Control Systems](ceb_m6.ipynb)
-* Module 7: Continuous to Discrete Conversion Methods
+* [Module 7: Continuous to Discrete Conversion Methods](ceb_m7.ipynb)
 
 #### Supplementary 
 *[PID Autotuning](autotuning.ipynb)
