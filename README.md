@@ -36,7 +36,7 @@ conda install -c conda-forge -n controlenv control
 ### Control Engineering Basics
 * [Module 1: Transfer Functions and Frequency Responses](ceb_m1.ipynb)
 * [Module 2: Feedback Properties](ceb_m2.ipynb)
-* Module 3: Classical Loopshaping Design
+* [Module 3: Classical Loopshaping Design](ceb_m3.ipynb)
 * [Module 4: PID Control](ceb_m4.ipynb)
 * Module 5: State Feedback
 * [Module 6: Discrete-time Control Systems](ceb_m6.ipynb)
