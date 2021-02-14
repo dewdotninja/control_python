@@ -38,14 +38,13 @@ conda install -c conda-forge -n controlenv control
 * [Module 2: Feedback Properties](ceb_m2.ipynb)
 * [Module 3: Classical Loopshaping Design](ceb_m3.ipynb)
 * [Module 4: PID Control](ceb_m4.ipynb)
-* Module 5: State Feedback
+* [Module 5: State Feedback](ceb_m5.ipynb)
 * [Module 6: Discrete-time Control Systems](ceb_m6.ipynb)
 * [Module 7: Continuous to Discrete Conversion Methods](ceb_m7.ipynb)
+* Supplementary 
+  *[PID Autotuning](autotuning.ipynb)
 
-#### Supplementary 
-*[PID Autotuning](autotuning.ipynb)
-
-<div align="right">Last update : Jan 7, 2021</div>
+<div align="right">Last update : Feb 14, 2021</div>
 <p align="center">
 <img src="https://drive.google.com/thumbnail?id=13bzT7Rmy3bzvE7TiS0yfQo94kpxMuipF" alt="dewninja"/>
 </p>
