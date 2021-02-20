@@ -1,2 +1,2 @@
-## $H_\infty$ Synthesis Series
+### H-infinity Synthesis Series
 
