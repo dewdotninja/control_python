@@ -1,2 +1,2 @@
-##$H_\infty$ Synthesis Series$
+## $H_\infty$ Synthesis Series
 
