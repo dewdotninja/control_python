@@ -43,6 +43,7 @@ conda install -c conda-forge -n controlenv control
 * [Module 7: Continuous to Discrete Conversion Methods](ceb_m7.ipynb)
 * Supplementary 
   * [PID Autotuning](autotuning.ipynb)
+  * [Feedforward Control](feedforward.ipynb)
 
 <div align="right">Last update : Feb 14, 2021</div>
 <p align="center">
