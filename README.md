@@ -10,6 +10,8 @@
 They are mostly Jupyter notebooks with Python code, using Scipy and Python Control Systems 
 libraries. The emphasis is on control system analysis and design, and robotics. The materials could serve as classroom teaching aids in engineering schools where the subjects are offered.
 
+<a href="https://dewdotninja.github.io/julia/control/julia_control.html" target=_blank>Julia version</a> is in progress.
+
 ## Installation
 
 <b>Requirement : </b> Python 3 with Scipy & Python control systems
