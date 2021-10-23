@@ -46,6 +46,7 @@ conda install -c conda-forge -n controlenv control
 * Supplementary 
   * [PID Autotuning](autotuning.ipynb)
   * [Feedforward Control](feedforward.ipynb)
+  * [Least Square System Identification](lsid.ipynb)
 
 <div align="right">Last update : Feb 14, 2021</div>
 <p align="center">
