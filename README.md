@@ -20,18 +20,17 @@ libraries. The emphasis is on control system analysis and design, and robotics. 
 
 <p />Execute the commands below to install Python control systems library in Colab
 <pre>
-!pip install slycot
 !pip install control
 </pre>
 
 <p />I use Anaconda to setup a Jupyter notebook environment. The process is quite detailed.
 Please consult some online information. 
 <p />Suppose the environment name is <em>controlenv</em>. Python Control System can be installed by 
-typing
+issuing the following commands in terminal window.
 <pre>
-conda install -c conda-forge -n controlenv control
+conda activate controlenv
+pip install control
 </pre>
-<p />at the command prompt.
 
 ## Contents
 
