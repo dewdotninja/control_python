@@ -18,6 +18,26 @@ libraries. The emphasis is on control system analysis and design, and robotics. 
 
 <p />The notebooks can be executed on Google colab or on your local computer. 
 
+# control_python
+<b>Dr.Varodom Toochinda</b>
+<br>Dept. of Mechanical Engineering, Kasetsart University
+
+<img src="https://drive.google.com/uc?id=1wb4TYWleOeD6bRXm5VTWdRqbuRWfmiRv" width=550 alt="Figure 3"/>
+
+## Project Description
+<p />The contents in this repository are converted from my 
+<a href="https://scilabdotninja.wordpress.com/" target=_blank>Scilab.ninja</a> website. 
+They are mostly Jupyter notebooks with Python code, using Scipy and Python Control Systems 
+libraries. The emphasis is on control system analysis and design, and robotics. The materials could serve as classroom teaching aids in engineering schools where the subjects are offered.
+
+<a href="https://dewdotninja.github.io/julia/control/julia_control.html" target=_blank>Julia version</a> is also available.
+
+## Installation
+
+<b>Requirement : </b> Python 3 with Scipy & Python control systems
+
+<p />The notebooks can be executed on Google colab or on your local computer. 
+
 <p />Execute the commands below to install Python control systems library in Colab
 <pre>
 !pip install control
@@ -44,10 +64,11 @@ pip install control
 * [Module 7: Continuous to Discrete Conversion Methods](ceb_m7.ipynb)
 * Supplementary 
   * [PID Autotuning](autotuning.ipynb)
+  * [Discrete-time PID implementation](adv_pid_implement.ipynb)
   * [Feedforward Control](feedforward.ipynb)
   * [Least Square System Identification](lsid.ipynb)
 
-<div align="right">Last update : Feb 14, 2021</div>
+<div align="right">Last update : September 2, 2022</div>
 <p align="center">
 <img src="https://drive.google.com/thumbnail?id=13bzT7Rmy3bzvE7TiS0yfQo94kpxMuipF" alt="dewninja"/>
 </p>
