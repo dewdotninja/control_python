@@ -67,6 +67,7 @@ pip install control
   * [Discrete-time PID implementation](adv_pid_implement.ipynb)
   * [Feedforward Control](feedforward.ipynb)
   * [Least Square System Identification](lsid.ipynb)
+  * [Implementing a general discrete-time transfer function](discrete_implement.ipynb)
 
 <div align="right">Last update : September 2, 2022</div>
 <p align="center">
