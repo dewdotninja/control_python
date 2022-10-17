@@ -65,6 +65,8 @@ pip install control
 * Supplementary 
   * [PID Autotuning](autotuning.ipynb)
   * [Discrete-time PID implementation](adv_pid_implement.ipynb)
+  * [Discrete-time PID implementation (object-oriented approach)](adv_pid_class_implement.ipynb)
+
   * [Feedforward Control](feedforward.ipynb)
   * [Least Square System Identification](lsid.ipynb)
   * [Implementing a general discrete-time transfer function](discrete_implement.ipynb)
