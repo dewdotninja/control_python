@@ -66,12 +66,11 @@ pip install control
   * [PID Autotuning](autotuning.ipynb)
   * [Discrete-time PID implementation](adv_pid_implement.ipynb)
   * [Discrete-time PID implementation (object-oriented approach)](adv_pid_class_implement.ipynb)
-
   * [Feedforward Control](feedforward.ipynb)
   * [Least Square System Identification](lsid.ipynb)
   * [Implementing a general discrete-time transfer function](discrete_implement.ipynb)
-
-<div align="right">Last update : September 2, 2022</div>
+  * [Implementing a general discrete-time transfer function (OOP approach)](discrete_implement_oop.ipynb)
+<div align="right">Last update : October 24, 2022</div>
 <p align="center">
 <img src="https://drive.google.com/thumbnail?id=13bzT7Rmy3bzvE7TiS0yfQo94kpxMuipF" alt="dewninja"/>
 </p>
