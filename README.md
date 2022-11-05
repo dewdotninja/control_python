@@ -18,26 +18,6 @@ libraries. The emphasis is on control system analysis and design, and robotics. 
 
 <p />The notebooks can be executed on Google colab or on your local computer. 
 
-# control_python
-<b>Dr.Varodom Toochinda</b>
-<br>Dept. of Mechanical Engineering, Kasetsart University
-
-<img src="https://drive.google.com/uc?id=1wb4TYWleOeD6bRXm5VTWdRqbuRWfmiRv" width=550 alt="Figure 3"/>
-
-## Project Description
-<p />The contents in this repository are converted from my 
-<a href="https://scilabdotninja.wordpress.com/" target=_blank>Scilab.ninja</a> website. 
-They are mostly Jupyter notebooks with Python code, using Scipy and Python Control Systems 
-libraries. The emphasis is on control system analysis and design, and robotics. The materials could serve as classroom teaching aids in engineering schools where the subjects are offered.
-
-<a href="https://dewdotninja.github.io/julia/control/julia_control.html" target=_blank>Julia version</a> is also available.
-
-## Installation
-
-<b>Requirement : </b> Python 3 with Scipy & Python control systems
-
-<p />The notebooks can be executed on Google colab or on your local computer. 
-
 <p />Execute the commands below to install Python control systems library in Colab
 <pre>
 !pip install control
