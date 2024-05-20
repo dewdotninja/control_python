@@ -50,8 +50,16 @@ pip install control
   * [Least Square System Identification](lsid.ipynb)
   * [Implementing a general discrete-time transfer function](discrete_implement.ipynb)
   * [Implementing a general discrete-time transfer function (OOP approach)](discrete_implement_oop.ipynb)
-<div align="right">Last update : October 24, 2022</div>
+
+## Updates
+
+#### May 2024:
+
+* Python control library 0.10.0 specify methods named control.zeros() and control.poles(). Some code in the notebook used
+control.zero(), for example, that causes error. Change it accordingly. 
+
 <p align="center">
 <img src="https://drive.google.com/thumbnail?id=13bzT7Rmy3bzvE7TiS0yfQo94kpxMuipF" alt="dewninja"/>
 </p>
-<div align="center">dew.ninja<br>Copyright 2021</div>
+
+
