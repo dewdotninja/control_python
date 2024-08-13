@@ -55,8 +55,17 @@ pip install control
 
 #### May 2024:
 
-* Python control library 0.10.0 specify methods named control.zeros() and control.poles(). Some code in the notebook used
-control.zero(), for example. Change it accordingly. 
+**Some syntax changes in Python control library 0.10.0 that needs to be corrected by you.**
+* specify methods named control.zeros() and control.poles(). Some code in the notebook used
+control.zero(), for example. 
+* control.bode_plot() returns a single data object instead of 3 in previous version. So change 
+```python
+_,_,_ = ctl.bode_plot(S)
+``` 
+to 
+``` python
+_ = ctl.bode_plot(S)
+```
 
 
 <p align="center">
